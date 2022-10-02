@@ -43,7 +43,7 @@ int main()
 ![Heaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heaaaa&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heaaaa&langs_count=8&layout=compactshow_icons=true&theme=radical)](https://github.com/Heaaaa/github-readme-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Heaaaa/Heaaaa/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src=https://media.giphy.com/media/g7GKcSzwQfugw/giphy.gif>
