@@ -45,6 +45,10 @@ int main()
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src=https://media.giphy.com/media/g7GKcSzwQfugw/giphy.gif>
+</p>
+
 <!---
 Heaaaa/Heaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
