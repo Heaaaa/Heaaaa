@@ -3,23 +3,47 @@
   <img src=https://media.giphy.com/media/RMw1DhEAwx5ZK/giphy.gif>
 </p>
 
+<h2>&nbsp;About Me</h2>
+
+```yaml
+#include <iostream>
+using namespace std;
+
+// A new noob in Github
+
+string Education()
+{
+    World-Class_Chinese_Independent_High_School=Foon_Yew_High_School;
+}
+
+string Interest()
+{
+    string int_1="Reading Novel";
+    string int_2="Read Comics";
+    string int_2="Watch Animes";
+}
+
+int main()
+{
+  string Name=Heaaaa;
+  int Age=17;
+  string Currently_learning[2]={"C++","Further Math"};
+  return 0;
+}
+```
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/114859711/193462127-fda73695-13e3-4071-b325-2ea90dfe0cef.png" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="php" width="45" height="45"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="php" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>         
 </p>
 
-```yaml
-Name:Heaaaa
-- 👋 Hi, I’m @Heaaaa
-- 👀 I’m interested in nothing!Yayyyy!
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on helping me to write code!Wuhooo!!!!!
-- 📫 Fb:余承峻
-- 📫 I have no Ig(～_～;)
-```
+![Heaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heaaaa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heaaaa&langs_count=8&layout=compactshow_icons=true&theme=radical)](https://github.com/Heaaaa/github-readme-stats)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Heaaaa/Heaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
